@@ -1,4 +1,4 @@
-# Fake News Detection
+# Fake News Detection using NLP & Logistic Regression
 
 A machine learning system that classifies news statements as Real or Fake using NLP-based text processing and Logistic Regression.
 
