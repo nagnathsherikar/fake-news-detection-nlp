@@ -1,5 +1,7 @@
 # Fake News Detection using NLP & Logistic Regression
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E)
+
 A machine learning system that classifies news statements as Real or Fake using NLP-based text processing and Logistic Regression.
 
 ## Overview
